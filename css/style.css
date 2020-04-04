@@ -1,0 +1,17 @@
+body, html {
+  height: 100%;
+}
+header{
+  text-align: center;
+  font-weight: bold; 
+  font-family: 'Times New Roman', Times, serif;  
+  font-size: 35px; 
+  background-color: black;
+  
+}
+.responsive {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
+
